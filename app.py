@@ -25,8 +25,8 @@ st.write('*Coronavirus is officially a pandemic. Since the first case in decembe
          'Some governments are taking measures to prevent a sanitary collapse to be able to take care of all these people.'+
          'I\'m tackling this challenge here. Let\'s see how some countries/regions are doing!*')
 
-st.sidebar.subheader("""Created with 💖 in India by [Sreeja Biswas](https://github.com/SreejaBiswas) from """)
-st.sidebar.image('images.png', width = 250)
+st.sidebar.subheader("""Created with 💖 in India by [Arnab Debnath](https://github.com/Arnab-0007) from """)
+
 
 st.sidebar.write("***Animated clip for awareness:-***")
 video_file = open('video.mp4', 'rb')
